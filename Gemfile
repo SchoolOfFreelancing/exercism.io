@@ -15,7 +15,7 @@ gem 'pg'
 gem 'pry', require: false
 gem 'puma', '~> 2.15.0'
 gem 'rack-flash3', require: 'rack-flash'
-gem 'rake', '~> 10.5.0'
+gem 'rake', '~> 12.3.3'
 gem 'redcarpet', '~> 3.1'
 gem 'rouge', '~> 2.1.0'
 gem 'sinatra', '~> 2.0.1', require: 'sinatra/base'
