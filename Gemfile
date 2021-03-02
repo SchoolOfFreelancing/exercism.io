@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.3'
 
-gem 'activerecord', '~> 5.1.1'
+gem 'activerecord', '~> 5.2.4'
 
 gem 'bugsnag', '~> 5.3'
 gem 'faraday'
